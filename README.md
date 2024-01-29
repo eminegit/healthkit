@@ -7,5 +7,5 @@ HealthKit is a powerful framework provided by Apple that allows your app to acce
 
 Requirements --
 
-1. iOS 12
+1. iOS 12 or later
 2. An Apple Developer account
